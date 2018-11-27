@@ -1,4 +1,6 @@
 # RippleEffect
+<img src="https://github.com/zhufui/RippleEffect/blob/master/screenshot/1.png" width="720" height="1280"/>
+
 1.系统自带有界水波纹效果
 
 	<Button
